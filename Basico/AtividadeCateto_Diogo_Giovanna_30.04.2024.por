@@ -1,3 +1,5 @@
+//Desenvolvido para calular a hipotenusa
+
 programa
 {
 	inclua biblioteca Matematica --> mat
