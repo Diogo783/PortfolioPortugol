@@ -1,6 +1,9 @@
+// desenvolvido para verificar quantos salarios minimos o usuario ganha 
+
 programa
 {
-	// desenvolvido por Diogo e Giovanna no dia 02.05.2024//
+	
+// desenvolvido por Diogo e Giovanna no dia 02.05.2024//
 	funcao inicio()
 	{
 		real salario
