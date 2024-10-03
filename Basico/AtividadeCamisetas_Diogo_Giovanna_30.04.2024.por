@@ -1,3 +1,5 @@
+//desenvolvido para calcular o custo total de compra das camisetas 
+
 programa
 {
 	
