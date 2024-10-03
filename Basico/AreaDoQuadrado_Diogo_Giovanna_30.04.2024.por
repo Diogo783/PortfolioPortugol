@@ -1,5 +1,5 @@
 //Desenvolvido por Diogo e Giovanna
-
+//Desenvolvido para calcular a area do quadrado
 programa
 {
 	
